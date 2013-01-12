@@ -1,5 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, world"
+  " Hi you there.. Soon you will find something amazing I hope... at least it would be fun !
+  
+  See you Soon !"
 end
